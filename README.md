@@ -11,5 +11,3 @@ This project provides a simple GUI for enhancing images using various image proc
 - Organized code structure with modular utilities and GUI components.
 
 
-
-
