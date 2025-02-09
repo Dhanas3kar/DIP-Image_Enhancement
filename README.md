@@ -11,13 +11,5 @@ This project provides a simple GUI for enhancing images using various image proc
 - Organized code structure with modular utilities and GUI components.
 
 
-THE FILE DIRECOTRY OF DIP IMAGE ENHANCEMENT
-  image_enhancement/
-│-- main.py  # Main script with UI
-│-- requirements.txt  # Required libraries
-│-- images/  # Store sample images
-│-- utils/
-│   │-- image_processing.py  # Image enhancement functions
-│   │-- helpers.py  # Utility functions
-│-- gui/
-│   │-- ui.py  # GUI elements and layout
+
+
